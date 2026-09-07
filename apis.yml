@@ -80,3 +80,5 @@ x-enrichment:
   pass: local-v1
 x-merged-from:
 - outsmartcollege
+x-parent: outsmart
+x-relationship: product
